@@ -19,4 +19,5 @@ Some Live2D models found; and after screening, there is no R18 model.
 Note: The configuration of the model is correct. Please check whether the Model.json configuration is correct before using, especially the configuration of the action. Edit the model, please use Live2DViewRex, add voice or modify the model by yourself
 
 Live2D is also suitable for being placed on the blog, please find tutorials by yourself.
+
 Source https://gitee.com/shuogg/live2d-model
